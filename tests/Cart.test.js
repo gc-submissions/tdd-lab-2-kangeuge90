@@ -1,5 +1,5 @@
 describe("Cart", () => {
-    test("constructor correctly sets items to an empty array", function() => {
+    test("constructor correctly sets items to an empty array", () => {
 
     });
 });
